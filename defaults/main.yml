@@ -1,4 +1,4 @@
-my_var_cadre_low: 2
+my_var_cadre_low: 1
 cadre_resource:
   web: 
     config: webserver
